@@ -1,0 +1,129 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+FullName:Proxima Nova Bold
+MenuName:Proxima Nova Rg
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63808
+FileModTime:1509881658
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNovaCond-Bold
+FamilyName:Proxima Nova Condensed
+StyleName:Bold
+FullName:Proxima Nova Condensed Bold
+MenuName:Proxima Nova Cn Rg
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Cond Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64744
+FileModTime:1509881666
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNovaCond-Light
+FamilyName:Proxima Nova Condensed
+StyleName:Light
+FullName:Proxima Nova Condensed Light
+MenuName:Proxima Nova Cn Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Cond Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64036
+FileModTime:1509881670
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNovaCond-Regular
+FamilyName:Proxima Nova Condensed
+StyleName:Regular
+FullName:Proxima Nova Condensed
+MenuName:Proxima Nova Cn Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Cond Reg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63832
+FileModTime:1509881676
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Light
+FamilyName:Proxima Nova
+StyleName:Light
+FullName:Proxima Nova Light
+MenuName:Proxima Nova Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62968
+FileModTime:1509881740
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\nextrow\template\Document fonts\Proxima Nova Reg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62892
+FileModTime:1509881748
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
